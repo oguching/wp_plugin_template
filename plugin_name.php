@@ -6,6 +6,7 @@
   Author: Author's name
   Author URI: http://yoursite.com/
   Plugin URI: http://yoursite.com/plugin-name
+  License: GPL2
   */
 
 ?>
